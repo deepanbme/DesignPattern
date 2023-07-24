@@ -1,4 +1,4 @@
-package designPattern.src.main.behaviouralPattern.StrategyPattern;
+package main.behaviouralPattern.StrategyPattern;
 
 public class BikePathCalculator implements IPathCalculator{
     private static BikePathCalculator instance;
