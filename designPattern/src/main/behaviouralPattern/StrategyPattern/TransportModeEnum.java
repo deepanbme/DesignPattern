@@ -1,3 +1,4 @@
+
 package main.behaviouralPattern.StrategyPattern;
 
 public enum TransportModeEnum {
